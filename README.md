@@ -1,2 +1,2 @@
 # python
-Algunas experimentos em Python.
+Alguns experimentos em Python.
