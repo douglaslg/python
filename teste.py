@@ -1,3 +1,5 @@
+#Abrir o browser considerando um determinado tempo.
+
 import time
 import webbrowser
 
